@@ -1,0 +1,5 @@
+name: home
+title: Home
+version: ~
+display_version: ' '
+start_page: overview:welcome.adoc

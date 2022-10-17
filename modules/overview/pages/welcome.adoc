@@ -1,0 +1,31 @@
+# Rackslab Documentations
+
+icon:book[] 📖 Welcome to Rackslab Documentations portal!
+
+Explore the documentation of the following products:
+
+
+****
+[cols=".^2a,3a"]
+|===
+|image::_@fatbuildr:overview:fatbuildr_logo_large.svg[Fatbuildr,275,120,xref=_@fatbuildr:overview:start.adoc,float=left]
+|*Fatbuildr* is an _open source_ continuous delivery solution. It takes software
+and artifact definitions inputs, then it builds artifacts based on definitions
+and publish them in registries.
+
+❯ xref:_@fatbuildr:overview:start.adoc[Read the documentation]
+|===
+****
+
+****
+[cols=".^2a,3a"]
+|===
+|image::_@racksdb:overview:racksdb_logo_large.svg[RacksDB,275,120,xref=_@racksdb:overview:start.adoc,float=left]
+|*RacksDB* is an _open source_ solution to modelize your datacenters
+infrastructures. It provides a simple database schema to store information about
+the equipments in your datacenters, with tools and library to request this
+database.
+
+❯ xref:_@racksdb:overview:start.adoc[Read the documentation]
+|===
+****
