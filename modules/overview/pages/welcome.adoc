@@ -20,12 +20,12 @@ and publish them in registries.
 ****
 [cols=".^2a,3a"]
 |===
-|image::_@racksdb:overview:racksdb_logo_large.svg[RacksDB,275,120,xref=_@racksdb:overview:start.adoc]
+|image::beta@racksdb:overview:racksdb_logo_large.svg[RacksDB,275,120,xref=beta@racksdb:overview:start.adoc]
 |*RacksDB* is an _open source_ solution to modelize your datacenters
 infrastructures. It provides a simple database schema to store information about
 the equipments in your datacenters, with tools and library to request this
 database.
 
-❯ xref:_@racksdb:overview:start.adoc[Read the documentation]
+❯ xref:beta@racksdb:overview:start.adoc[Read the documentation]
 |===
 ****
